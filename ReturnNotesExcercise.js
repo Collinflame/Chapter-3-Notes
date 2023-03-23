@@ -84,14 +84,14 @@ const readLine = require('readLine-sync');
 // console.log(DartGame());
 
 //Question 7
-// function linear () {
-//     let rise = Number(readLine.question('Rise of the slope: '));
-//     let run = Number(readLine.question('Run of the slope: '));
-//     let b = Number(readLine.question('Y-Intercept: '));
-//     let m = (`${rise}/${run}`);
-//     return (`The linear equation is y=${m}x+${b}`)
-// }
-// console.log(linear());
+function linear () {
+    let rise = Number(readLine.question('Rise of the slope: '));
+    let run = Number(readLine.question('Run of the slope: '));
+    let b = Number(readLine.question('Y-Intercept: '));
+    let m = (`${rise}/${run}`);
+    return (`The linear equation is y=${m}x+${b}`)
+}
+console.log(linear());
 
 //Question 8
 // function slope () {

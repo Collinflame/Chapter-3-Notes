@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d152a45d-b027-4485-98db-5a948e129efd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArraysNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysNotesExcercise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReturnNotesExcercise.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReturnNotesExcercise.js" afterDir="false" />
     </list>
@@ -31,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FunctionNotesExcercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
+            <state relative-caret-position="833">
               <caret line="89" selection-start-line="89" selection-start-column="3" selection-end-line="97" selection-end-column="4" />
               <folding>
                 <element signature="e#148#160#0" />
@@ -53,20 +55,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReturnNotesExcercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+            <state relative-caret-position="289">
+              <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
               <folding>
                 <element signature="e#44#56#0" />
                 <element signature="e#317#329#0" />
                 <element signature="e#591#603#0" />
                 <element signature="e#1375#1387#0" />
-                <element signature="e#1635#1647#0" />
-                <element signature="e#2090#2102#0" />
-                <element signature="e#3084#3096#0" />
-                <element signature="e#3435#3447#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArraysNotes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArraysNotesExcercise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,11 +110,14 @@
         <option value="$PROJECT_DIR$/ReturnNotes.js" />
         <option value="$PROJECT_DIR$/FunctionNotesExcercise.js" />
         <option value="$PROJECT_DIR$/ReturnNotesExcercise.js" />
+        <option value="$PROJECT_DIR$/ArraysNotes.js" />
+        <option value="$PROJECT_DIR$/ArraysNotesExcercise.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -162,7 +184,9 @@
       <workItem from="1678914231172" duration="53000" />
       <workItem from="1678997875070" duration="3651000" />
       <workItem from="1679082952899" duration="4589000" />
-      <workItem from="1679344448238" duration="1161000" />
+      <workItem from="1679344448238" duration="1180000" />
+      <workItem from="1679345777512" duration="732000" />
+      <workItem from="1679602866518" duration="3419000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1678827357003</created>
@@ -192,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1679001516878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Return Update">
+      <created>1679345615536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679345615536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13954000" />
+    <option name="totallyTimeSpent" value="18124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,16 +272,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReturnNotes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionNotesExcercise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
+        <state relative-caret-position="833">
           <caret line="89" selection-start-line="89" selection-start-column="3" selection-end-line="97" selection-end-column="4" />
           <folding>
             <element signature="e#148#160#0" />
@@ -262,19 +286,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ReturnNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ReturnNotesExcercise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+        <state relative-caret-position="289">
+          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding>
             <element signature="e#44#56#0" />
             <element signature="e#317#329#0" />
             <element signature="e#591#603#0" />
             <element signature="e#1375#1387#0" />
-            <element signature="e#1635#1647#0" />
-            <element signature="e#2090#2102#0" />
-            <element signature="e#3084#3096#0" />
-            <element signature="e#3435#3447#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysNotesExcercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
