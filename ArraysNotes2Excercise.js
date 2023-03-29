@@ -136,12 +136,24 @@
 // question8 ([1, 2, 3, 4, 5]);
 
 //Question 9
-function question9 (array9) {
-    let newarray9 = [];
-    let i = array9[0] * array9[1] * array9[2] * array9[3] * array9[4];
-    for (let x = 0; x < array9.length; x++ ) {
-        newarray9.push(i / array9[x])
-    }
-    console.log(newarray9)
-}
-question9 ([1, 2, 3, 4, 5]);
+// function question9 (array9) {
+//     let newarray9 = [];
+//     let i = array9[0] * array9[1] * array9[2] * array9[3] * array9[4];
+//     for (let x = 0; x < array9.length; x++ ) {
+//         newarray9.push(i / array9[x])
+//     }
+//     console.log(newarray9)
+// }
+// question9 ([1, 2, 3, 4, 5]);
+
+//Question 10
+// function question10 (array10) {
+//     let newarray10 = [];
+//     let i = array10[0] * array10[1] * array10[2] * array10[3] * array10[4];
+//     for (let x = 0; x < array10.length; x++ ) {
+//         newarray10.push(i / array10[x])
+//     }
+//     console.log(array10);
+//     console.log(newarray10)
+// }
+// question10 ([1, 2, 3, 4, 5]);
