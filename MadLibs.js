@@ -29,37 +29,81 @@ if (five.length === 0){
 } else {words.push(five);}
 let six = readLine.question(`Give Me An Adjective Ending With "est": `);
 if (six.length === 0){
-    let six = '';
+    let six = 'stupidest';
     words.push(six);
 } else {words.push(six);}
 let seven = readLine.question(`Give Me A Person: `);
-words.push(seven);
+if (seven.length === 0){
+    let seven = 'his Mother';
+    words.push(seven);
+} else {words.push(seven);}
 let eight = readLine.question(`Give Me An Adjective `);
-words.push(eight);
+if (eight.length === 0){
+    let eight = 'excited';
+    words.push(eight);
+} else {words.push(eight);}
 let nine = readLine.question(`Give Me A Verb Ending With "ing": `);
-words.push(nine);
+if (nine.length === 0){
+    let nine = 'doing nothing';
+    words.push(nine);
+} else {words.push(nine);}
 let ten = readLine.question(`Give Me An Adjective: `);
-words.push(ten);
+if (ten.length === 0){
+    let ten = 'normal';
+    words.push(ten);
+} else {words.push(ten);}
 let eleven = readLine.question("Give Me A Color: ");
-words.push(eleven);
+if (eleven.length === 0){
+    let eleven = 'green';
+    words.push(eleven);
+}else{
+    words.push(eleven);
+}
 let twelve = readLine.question("Give Me A Plural Noun: ");
-words.push(twelve);
+if (twelve.length === 0){
+    let twelve = 'glasses';
+    words.push(twelve);
+}else {words.push(twelve);}
 let thirteen = readLine.question("Give Me A Number: ");
-words.push(thirteen);
-let fourteen = readLine.question("Give Me A Plural Noun: ");
-words.push(fourteen);
+if (thirteen.length === 0){
+    let thirteen = '2';
+    words.push(thirteen);
+}else{words.push(thirteen);}
+let fourteen = readLine.question("Give Me A Number Plural Noun: ");
+if (fourteen.length === 0){
+    let fourteen = 'collectibles';
+    words.push(fourteen);
+}else{words.push(fourteen);}
 let fifthteen = readLine.question("Give Me A Game: ");
-words.push(fifthteen);
+if (fifthteen.length === 0){
+    let fifthteen = 'Minecraft';
+    words.push(fifthteen);
+}else{words.push(fifthteen);}
 let sixteen = readLine.question("Give Me A Number: ");
-words.push(sixteen);
+if (sixteen.length === 0){
+    let sixteen = '3';
+    words.push(sixteen);
+}else{words.push(sixteen);}
 let seventeen = readLine.question("Give Me A Food: ");
-words.push(seventeen);
+if (seventeen.length === 0){
+    let seventeen = 'pizzas';
+    words.push(seventeen);
+}else{words.push(seventeen);}
 let eighteen = readLine.question("Give Me A Movie: ");
-words.push(eighteen);
+if (eighteen.length === 0){
+    let eighteen = 'Secret Life Of Pets 2';
+    words.push(eighteen);
+}else{words.push(eighteen);}
 let nineteen = readLine.question("Give Me A Noun: ");
-words.push(nineteen);
+if (nineteen.length === 0){
+    let nineteen = 'cookies';
+    words.push(nineteen);
+}else{words.push(nineteen);}
 let twenty = readLine.question("Give Me An Adjective: ");
-words.push(twenty);
+if (twenty.length === 0){
+    let twenty = 'boring';
+    words.push(twenty);
+}else{words.push(twenty);}
 
 console.log(`Here's Our Story "Visiting Efren's House"`);
 console.log(`Today I am visiting Efren with ${words[0]}. 
