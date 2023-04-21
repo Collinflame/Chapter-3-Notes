@@ -26,7 +26,7 @@ function rolld6 (){
 function rollDice(amount, list){
     for (let i = 0; i<amount; i++) {
         let roll = rolld6();
-        console.log(`You Rolled a ${roll}!`);
+        // console.log(`You Rolled a ${roll}!`);
         list.push(roll);
     }
 }
@@ -36,7 +36,7 @@ function sum (list) {
    for (let i=0; i<list.length; i++) {
        sum+=list[i]
    }
-   console.log(`The Total Was: ${sum}`);
+   // console.log(`The Total Was: ${sum}`);
    return sum;
 }
 
