@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d152a45d-b027-4485-98db-5a948e129efd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ComboMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterCreator.js" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterCreator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComboMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ComboMenu.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="-618">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArraysNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="453">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -38,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CharacterCreator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1281">
+            <state relative-caret-position="1054">
               <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
             </state>
           </provider>
@@ -47,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ComboMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="969">
+              <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -98,8 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +158,8 @@
       <workItem from="1681849348618" duration="3218000" />
       <workItem from="1681935937378" duration="3197000" />
       <workItem from="1682022173181" duration="958000" />
-      <workItem from="1682108715292" duration="3232000" />
+      <workItem from="1682108715292" duration="3257000" />
+      <workItem from="1682366596348" duration="2875000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1678827357003</created>
@@ -273,17 +273,24 @@
       <option name="project" value="LOCAL" />
       <updated>1681939128545</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Combo Menu Update">
+      <created>1682111958450</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682111958450</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46755000" />
+    <option name="totallyTimeSpent" value="49655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.031612225" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.031982943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,7 +340,8 @@
     <MESSAGE value="8-Ball Update" />
     <MESSAGE value="Objects Update" />
     <MESSAGE value="Character Creator Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Character Creator Update" />
+    <MESSAGE value="Combo Menu Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Combo Menu Update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FunctionNotes.js">
@@ -342,20 +350,6 @@
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionNotesExcercise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="89" selection-start-line="89" selection-start-column="3" selection-end-line="97" selection-end-column="4" />
-          <folding>
-            <element signature="e#148#160#0" />
-            <element signature="e#289#301#0" />
-            <element signature="e#525#537#0" />
-            <element signature="e#766#778#0" />
-            <element signature="e#1111#1123#0" />
           </folding>
         </state>
       </provider>
@@ -407,13 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectNotes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArraysNotes2Excercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -442,22 +429,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CharacterCreator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281">
+        <state relative-caret-position="1054">
           <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionNotesExcercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="94" column="15" lean-forward="true" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+          <folding>
+            <element signature="e#148#160#0" />
+            <element signature="e#289#301#0" />
+            <element signature="e#525#537#0" />
+            <element signature="e#766#778#0" />
+            <element signature="e#1111#1123#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArraysNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="453">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ComboMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        <state relative-caret-position="969">
+          <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
         </state>
       </provider>
     </entry>
