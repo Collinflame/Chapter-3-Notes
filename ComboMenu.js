@@ -67,6 +67,27 @@ if (ketchup === 'Yes') {
     total.push(ketchupAmount * .25)
 }
 
+bbq = readLine.question('Do You Want Barbecue? Yes or No?: ');
+if (bbq === 'Yes') {
+    bbqAmount = readLine.question('How Many Barbecue Containers Do You Want? Its 30 Cents Each: ');
+    order.push(` Barbecue x${bbqAmount}`);
+    total.push(bbqAmount * .35)
+}
+
+mustard = readLine.question('Do You Want Mustard? Yes or No?: ');
+if (mustard === 'Yes') {
+    mustardAmount = readLine.question('How Many Mustard Packets Do You Want? Its 20 Cents Each: ');
+    order.push(` Mustard x${mustardAmount}`);
+    total.push(mustardAmount * .20)
+}
+
+sauce = readLine.question('Do You Want Collinflame Sauce? Yes or No?: ');
+if (sauce === 'Yes') {
+    sauceAmount = readLine.question('How Many Collinflame Sauce Containers Do You Want? Its 35 Cents Each: ');
+    order.push(` Collinflame Sauce x${sauceAmount}`);
+    total.push(sauceAmount * .35)
+}
+
 let totalAmount = 0;
 for(let i = 0; i < total.length; i++) {
     totalAmount += total[i];
