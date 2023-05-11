@@ -51,6 +51,7 @@ function pickRandomChoice(choices) {
     return choices[randomNum];
 }
 
+
 function createChar(character, list){
     character.name = readLine.question('Enter Character Name:');
     character.eyeColor = pickRandomChoice(eyeColors);
